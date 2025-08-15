@@ -1,0 +1,98 @@
+[
+  {
+    "id": "lausanne-ovronnaz",
+    "from": "Lausanne",
+    "to": "Ovronnaz",
+    "car_min": 75,
+    "pt_min": 135,
+    "from_coords": [
+      46.5197,
+      6.6323
+    ],
+    "to_coords": [
+      46.205,
+      7.175
+    ],
+    "image": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "id": "geneve-crans",
+    "from": "Genève",
+    "to": "Crans-Montana",
+    "car_min": 120,
+    "pt_min": 195,
+    "from_coords": [
+      46.2044,
+      6.1432
+    ],
+    "to_coords": [
+      46.311,
+      7.48
+    ],
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "id": "fribourg-anzere",
+    "from": "Fribourg",
+    "to": "Anzère",
+    "car_min": 100,
+    "pt_min": 180,
+    "from_coords": [
+      46.8065,
+      7.1619
+    ],
+    "to_coords": [
+      46.2969,
+      7.3961
+    ],
+    "image": "https://images.unsplash.com/photo-1548359638-8a6b4f069d9e?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "id": "neuchatel-nax",
+    "from": "Neuchâtel",
+    "to": "Nax-Mont-Noble",
+    "car_min": 130,
+    "pt_min": 210,
+    "from_coords": [
+      46.992,
+      6.931
+    ],
+    "to_coords": [
+      46.232,
+      7.417
+    ],
+    "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "id": "sion-zinal",
+    "from": "Sion",
+    "to": "Zinal",
+    "car_min": 70,
+    "pt_min": 140,
+    "from_coords": [
+      46.2274,
+      7.3599
+    ],
+    "to_coords": [
+      46.135,
+      7.626
+    ],
+    "image": "https://images.unsplash.com/photo-1517483000871-1dbf64a5a79e?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "id": "lausanne-leukerbad",
+    "from": "Lausanne",
+    "to": "Leukerbad",
+    "car_min": 135,
+    "pt_min": 210,
+    "from_coords": [
+      46.5197,
+      6.6323
+    ],
+    "to_coords": [
+      46.379,
+      7.628
+    ],
+    "image": "https://images.unsplash.com/photo-1519305122386-4da6525d4e19?q=80&w=1600&auto=format&fit=crop"
+  }
+]
